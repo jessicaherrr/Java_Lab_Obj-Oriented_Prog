@@ -1,0 +1,13 @@
+Inventory Report
+
+Code: P001 | Description: Wireless Mouse | In-Date: 2025-04-01 | Qty: 100 | Min Stock: 50 | Price: $19.99 | Reorder: 0
+Code: P002 | Description: Mechanical Keyboard | In-Date: 2025-03-20 | Qty: 85 | Min Stock: 30 | Price: $89.99 | Reorder: 0
+Code: P003 | Description: 27" 4K Monitor | In-Date: 2025-02-15 | Qty: 3 | Min Stock: 10 | Price: $279.00 | Reorder: 1
+Code: P004 | Description: USB-C Hub | In-Date: 2025-04-05 | Qty: 200 | Min Stock: 70 | Price: $24.50 | Reorder: 0
+Code: P005 | Description: Laptop Stand | In-Date: 2025-03-28 | Qty: 120 | Min Stock: 40 | Price: $32.75 | Reorder: 0
+Code: P006 | Description: Noise Cancelling Headphones | In-Date: 2025-03-10 | Qty: 60 | Min Stock: 20 | Price: $149.99 | Reorder: 0
+Code: P007 | Description: External SSD 1TB | In-Date: 2025-01-30 | Qty: 35 | Min Stock: 15 | Price: $99.50 | Reorder: 0
+Code: P008 | Description: HDMI Cable 6ft | In-Date: 2025-04-10 | Qty: 300 | Min Stock: 100 | Price: $9.99 | Reorder: 0
+Code: P009 | Description: Webcam 1080p | In-Date: 2025-03-05 | Qty: 75 | Min Stock: 25 | Price: $49.95 | Reorder: 0
+Code: P010 | Description: Bluetooth Speaker | In-Date: 2025-02-25 | Qty: 95 | Min Stock: 30 | Price: $59.95 | Reorder: 0
+Code: P011 | Description: EarBud | In-Date: 2026-04-09 | Qty: 88 | Min Stock: 20 | Price: $199.99 | Reorder: 0

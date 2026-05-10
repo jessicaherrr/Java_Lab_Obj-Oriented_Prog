@@ -31,7 +31,11 @@ public class CIS2900_NestedLoopsCinemaSeats {
          for (currentColumn = 0; currentColumn < numColumns; currentColumn ++) {
             currentColumnInteger = 1 + currentColumn;
             
-            System.out.print(currentRowLetter + "" + currentColumnInteger + " "); // we need "" between char and integer
+            System.out.print(currentRowLetter + "" + currentColumnInteger);// we need "" between char and integer
+            if (currentColumn < numColumns - 1) {
+               System.out.print("-");
+            }
+
             
          }
          System.out.println();
